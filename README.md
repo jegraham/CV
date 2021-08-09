@@ -1,11 +1,15 @@
 # Jessica Graham
 [Github](jegraham.github.io)
 [LinkedIn](www.linkedin.com/in/jessica-graham-455261aa)
+---
 
 ## Skills
+---
 
-- Java 
-- Javascript 
+
+
+- [x] Java 
+- [] Javascript 
 - HTML 
 - CSS
 - SASS
@@ -17,6 +21,7 @@
 
 
 ## Experience
+---
 
 <dl>
   <dt>IBM / Intermediate Cognos Analytics Software Support Engineer/dt>
@@ -50,6 +55,7 @@ Communicated with clients to review, troubleshoot and resolve their technical is
 
 
 ## Education
+---
 
 ### Brock University / Master of Science in Computer Science (MSc)
 #### September 2021- Present,  St. Catharines, Ontario
@@ -59,6 +65,8 @@ Communicated with clients to review, troubleshoot and resolve their technical is
 
 
 ## Extracurricular
+---
+
 ### Technovation /Event Lead & Participant
 #### January 2019 - Present, Ottawa, Ontario
 Manage over 25  volunteers, mentors, and ambassadors for each IBM-hosted event. Each event had approximately 300 attendees to work and guide the girls on their STEM project.
