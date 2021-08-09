@@ -1,4 +1,6 @@
 # Jessica Graham
+[Github](jegraham.github.io)
+[LinkedIn](www.linkedin.com/in/jessica-graham-455261aa)
 
 ## Skills
 
@@ -15,6 +17,17 @@
 
 
 ## Experience
+
+<dl>
+  <dt>IBM / Intermediate Cognos Analytics Software Support Engineer/dt>
+  <dd>August 2020 - Present</dd>
+  <dd>Mentored three new hires and scheduling regular touchpoints to discuss case and training progress. Specialized in security and API connections. </dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+
 
 ### IBM / Intermediate Cognos Analytics Software Support Engineer 
 #### August 2020 - Present
