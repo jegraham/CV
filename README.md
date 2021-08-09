@@ -1,11 +1,15 @@
 ## Jessica Graham
-### (519) 359-3718
-### graham.jessica338@gmail.com
-### http://jegraham.github.io/ 
-### www.linkedin.com/in/jessica-graham-455261aa
+(519) 359-3718
+graham.jessica338@gmail.com
+http://jegraham.github.io/ 
+www.linkedin.com/in/jessica-graham-455261aa
 
 
-### Markdown
+### Skills
+### Experience
+### Education
+### Extracurricular
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
