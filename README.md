@@ -15,36 +15,49 @@
 
 
 ## Experience
+
+### IBM / Intermediate Cognos Analytics Software Support Engineer 
+#### August 2020 - Present
+Mentored three new hires and scheduling regular touchpoints to discuss case and training progress. Specialized in security and API connections. 
+
+
+### IBM / Junior Cognos Analytics on Cloud Software Support Engineer 
+#### January 2019 - August 2020
+Collaborated with cross-functional teams to work toward a better SaaS Support experience. For example, Developed a Github Playbook with content for the team to include documentation on processes and additional resources. 
+
+
+### IBM / Cognos Analytics on Cloud Software Support Engineer 
+#### January 2017 - January 2019
+Onboarded over 200 organizations to IBM  cloud and initiated improvements to onboarding experience by automating onboarding form, further reduced by 50%.
+
+
+### IBM / Cognos Analytics Analyst
+#### January 2016 - January 2017
+Communicated with clients to review, troubleshoot and resolve their technical issues. Organized daily swarm to progress team cases and further reduce team case volume by 20%. 
+
+
 ## Education
+
+### Brock University / Master of Science in Computer Science (MSc)
+#### September 2021- Present,  St. Catharines, Ontario
+
+### Brock University/ Honours Bachelor of Science in Computer Science (BSc)
+#### September 2014 - June 2019,  St. Catharines, Ontario
+
+
 ## Extracurricular
+### Technovation /Event Lead & Participant
+#### January 2019 - Present, Ottawa, Ontario
+Manage over 25  volunteers, mentors, and ambassadors for each IBM-hosted event. Each event had approximately 300 attendees to work and guide the girls on their STEM project.
 
+### IBM / Student Ambassador
+#### January 2016 - December 2018,  Ottawa, Ontario
+Communicate and represent IBM during career fairs, hackathons, and networking events. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### IBM / STEM Conference Participant
+#### November 2016,  Markham, Ontario
+Attend STEM Female Millenial  Conference discussions include design thinking, networking, and career roundtables.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jegraham/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### IBM /Site Lead & Participant
+#### January 2016 - December 2016,  Ottawa, Ontario
+Lead the IBM Interns in extracurricular events to enhance the IBM internship experience and network with fellow interns in other departments and positions.
