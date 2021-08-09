@@ -1,14 +1,20 @@
-## Jessica Graham
-(519) 359-3718
-graham.jessica338@gmail.com
-http://jegraham.github.io/ 
-www.linkedin.com/in/jessica-graham-455261aa
+## Skills
+
+- Java 
+- Javascript 
+- HTML 
+- CSS
+- SASS
+- Bootstrap 
+- SQL 
+- PHP 
+- Git
+- Cognos Analytics 
 
 
-### Skills
-### Experience
-### Education
-### Extracurricular
+## Experience
+## Education
+## Extracurricular
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
