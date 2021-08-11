@@ -12,49 +12,35 @@
 - Bootstrap 
 - SQL 
 - PHP 
+- Python
 - Git
 - Cognos Analytics 
 
 ## 👩🏼‍💻 Technical Experience
 
-**Intermediate Cognos Analytics Software Support Engineer** @ [IBM](https://www.ibm.com/) _(July 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
+**Intermediate Cognos Analytics Software Support Engineer** @ [IBM](https://www.ibm.com/) _(August 2020 - Present)_ <br>
+  - Mentored three new hires and scheduling regular touchpoints to discuss case and training progress. Specialized in security and API connections. 
+  - **_Technologies used:_** Cognos Analytics, Javascript, SQL, OIDC, SSO, SSL, Linux, HTML, Web Developer Tools, Security.
 <br><br>
 
 
-
-<dl>
-  <dt>IBM / Intermediate Cognos Analytics Software Support Engineer/dt>
-  <dd>August 2020 - Present</dd>
-  <dd>Mentored three new hires and scheduling regular touchpoints to discuss case and training progress. Specialized in security and API connections. </dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+**Junior Cognos Analytics on Cloud Software Support Engineer** @ [IBM](https://www.ibm.com/) _(January 2019 - August 2020)_ <br>
+  - Collaborated with cross-functional teams to work toward a better SaaS Support experience. For example, Developed a Github Playbook with content for the team to include documentation on processes and additional resources. 
+  - **_Technologies used:_** Cognos Analytics, Cloud, Subscription Services, VPN, Networking, Javascript, SQL, OIDC, SSO, SSL, Linux, HTML, Web Developer Tools.
+<br><br>
 
 
-
-### IBM / Intermediate Cognos Analytics Software Support Engineer 
-#### August 2020 - Present
-Mentored three new hires and scheduling regular touchpoints to discuss case and training progress. Specialized in security and API connections. 
-
-
-### IBM / Junior Cognos Analytics on Cloud Software Support Engineer 
-#### January 2019 - August 2020
-Collaborated with cross-functional teams to work toward a better SaaS Support experience. For example, Developed a Github Playbook with content for the team to include documentation on processes and additional resources. 
+**Cognos Analytics on Cloud Software Support Engineer - Onboarding Specialist** @ [IBM](https://www.ibm.com/) _(January 2017 - January 2019)_ <br>
+  -Onboarded over 200 organizations to IBM  cloud and initiated improvements to onboarding experience by automating onboarding form, further reduced by 50%.
+  - **_Technologies used:_** Cognos Analytics, Cloud, VPN, Networking, OIDC, SSO, SSL, Linux.
+<br><br>
 
 
-### IBM / Cognos Analytics on Cloud Software Support Engineer 
-#### January 2017 - January 2019
-Onboarded over 200 organizations to IBM  cloud and initiated improvements to onboarding experience by automating onboarding form, further reduced by 50%.
+**Cognos Analytics Analyst - Onboarding Specialist** @ [IBM](https://www.ibm.com/) _(January 2016 - January 2017)_ <br>
+  -Communicated with clients to review, troubleshoot and resolve their technical issues. Organized daily swarm to progress team cases and further reduce team case volume by 20%. 
+  - **_Technologies used:_** Cognos Analytics, Business Intelligence.
+<br><br>
 
-
-### IBM / Cognos Analytics Analyst
-#### January 2016 - January 2017
-Communicated with clients to review, troubleshoot and resolve their technical issues. Organized daily swarm to progress team cases and further reduce team case volume by 20%. 
 
 
 ## Education
