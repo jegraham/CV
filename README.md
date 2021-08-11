@@ -44,23 +44,23 @@
 
 ## 📌 On The Side
 
-**Event Lead & Participant** @ [Technovation](https://technovationottawa.org/) _(January 2019 Present)_ <br>
+** Event Lead & Participant** @ [Technovation](https://technovationottawa.org/) _(January 2019 Present)_ <br>
   - Manage over 25 volunteers, mentors, and ambassadors for each IBM-hosted event. Each event had approximately 300 attendees to work and guide the girls on their STEM project.
   - _Note: The couple sessions before the pandemic began we took extra measures to ensure screening and sanitization was done for all volunteers and participants. 
 <br><br>
 
 
-**Student Ambassador ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_ <br>
+** Student Ambassador ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_ <br>
   - Communicate and represent IBM during career fairs, hackathons, and networking events. 
 <br><br>
 
 
-**STEM Conference Participant ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_ <br>
+** STEM Conference Participant ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_ <br>
   - Attend STEM Female Millenial  Conference discussions include design thinking, networking, and career roundtables.
 <br><br>
 
 
-**Site Lead & Participant ** @ [IBM Future Blue](https://www.ibm.com) _(January 2016 - December 2016)_ <br>
+** Site Lead & Participant ** @ [IBM Future Blue](https://www.ibm.com) _(January 2016 - December 2016)_ <br>
   - Lead the IBM Interns in extracurricular events to enhance the IBM internship experience and network with fellow interns in other departments and positions.
 <br><br>
 
@@ -74,3 +74,10 @@
 
 **Honours Bachelor of Science in Computer Science (BSc)**<br>
 [Brock University](https://brocku.ca/) - St. Catharines, Ontario _(Fall 2014 - Winter 2019)
+
+
+
+## 🏆 Accomplishments - Pending Section
+
+**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
+Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
