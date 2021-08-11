@@ -20,13 +20,13 @@
 
 **Intermediate Cognos Analytics Software Support Engineer** @ [IBM](https://www.ibm.com/) _(August 2020 - Present)_ <br>
   - Mentored three new hires and scheduling regular touchpoints to discuss case and training progress. Specialized in security and API connections. 
-  - **_Technologies used:_** Cognos Analytics, Javascript, SQL, OIDC, SSO, SSL, Linux, HTML, Web Developer Tools, Security.
+  - **_Technologies used:_** Cognos Analytics, Javascript, SQL, OIDC, SSO, SSL, Linux, HTML, Web Developer Tools, Github, Security.
 <br><br>
 
 
 **Junior Cognos Analytics on Cloud Software Support Engineer** @ [IBM](https://www.ibm.com/) _(January 2019 - August 2020)_ <br>
   - Collaborated with cross-functional teams to work toward a better SaaS Support experience. For example, Developed a Github Playbook with content for the team to include documentation on processes and additional resources. 
-  - **_Technologies used:_** Cognos Analytics, Cloud, Subscription Services, VPN, Networking, Javascript, SQL, OIDC, SSO, SSL, Linux, HTML, Web Developer Tools.
+  - **_Technologies used:_** Cognos Analytics, Cloud, Subscription Services, VPN, Networking, Javascript, SQL, OIDC, SSO, SSL, Linux, HTML, Github, Web Developer Tools.
 <br><br>
 
 
@@ -44,23 +44,23 @@
 
 ## 📌 On The Side
 
-** Event Lead & Participant** @ [Technovation](https://technovationottawa.org/) _(January 2019 Present)_ <br>
+**Event Lead & Participant** @ [Technovation](https://technovationottawa.org/) _(January 2019 Present)_<br>
   - Manage over 25 volunteers, mentors, and ambassadors for each IBM-hosted event. Each event had approximately 300 attendees to work and guide the girls on their STEM project.
-  - _Note: The couple sessions before the pandemic began we took extra measures to ensure screening and sanitization was done for all volunteers and participants. 
+  - Note: The couple sessions before the pandemic began we took extra measures to ensure screening and sanitization was done for all volunteers and participants. 
 <br><br>
 
 
-** Student Ambassador ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_ <br>
+**Student Ambassador ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_<br>
   - Communicate and represent IBM during career fairs, hackathons, and networking events. 
 <br><br>
 
 
-** STEM Conference Participant ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_ <br>
+**STEM Conference Participant ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_<br>
   - Attend STEM Female Millenial  Conference discussions include design thinking, networking, and career roundtables.
 <br><br>
 
 
-** Site Lead & Participant ** @ [IBM Future Blue](https://www.ibm.com) _(January 2016 - December 2016)_ <br>
+**Site Lead & Participant ** @ [IBM Future Blue](https://www.ibm.com) _(January 2016 - December 2016)_<br>
   - Lead the IBM Interns in extracurricular events to enhance the IBM internship experience and network with fellow interns in other departments and positions.
 <br><br>
 
