@@ -31,15 +31,42 @@
 
 
 **Cognos Analytics on Cloud Software Support Engineer - Onboarding Specialist** @ [IBM](https://www.ibm.com/) _(January 2017 - January 2019)_ <br>
-  -Onboarded over 200 organizations to IBM  cloud and initiated improvements to onboarding experience by automating onboarding form, further reduced by 50%.
+  - Onboarded over 200 organizations to IBM  cloud and initiated improvements to onboarding experience by automating onboarding form, further reduced by 50%.
   - **_Technologies used:_** Cognos Analytics, Cloud, VPN, Networking, OIDC, SSO, SSL, Linux.
 <br><br>
 
 
-**Cognos Analytics Analyst - Onboarding Specialist** @ [IBM](https://www.ibm.com/) _(January 2016 - January 2017)_ <br>
+**Cognos Analytics Analyst** @ [IBM](https://www.ibm.com/) _(January 2016 - January 2017)_ <br>
   -Communicated with clients to review, troubleshoot and resolve their technical issues. Organized daily swarm to progress team cases and further reduce team case volume by 20%. 
   - **_Technologies used:_** Cognos Analytics, Business Intelligence.
 <br><br>
+
+
+## 📌 On The Side
+
+**Event Lead & Participant** @ [Technovation](https://technovationottawa.org/) _(January 2019 Present)_ <br>
+  - Manage over 25 volunteers, mentors, and ambassadors for each IBM-hosted event. Each event had approximately 300 attendees to work and guide the girls on their STEM project.
+  - _Note: The couple sessions before the pandemic began we took extra measures to ensure screening and sanitization was done for all volunteers and participants. 
+<br><br>
+
+
+**Student Ambassador ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_ <br>
+  - Communicate and represent IBM during career fairs, hackathons, and networking events. 
+<br><br>
+
+
+**STEM Conference Participant ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_ <br>
+  - Attend STEM Female Millenial  Conference discussions include design thinking, networking, and career roundtables.
+<br><br>
+
+
+**Site Lead & Participant ** @ [IBM Future Blue](https://www.ibm.com) _(January 2016 - December 2016)_ <br>
+  - Lead the IBM Interns in extracurricular events to enhance the IBM internship experience and network with fellow interns in other departments and positions.
+<br><br>
+
+
+
+
 
 
 
@@ -51,23 +78,3 @@
 
 ### Brock University/ Honours Bachelor of Science in Computer Science (BSc)
 #### September 2014 - June 2019,  St. Catharines, Ontario
-
-
-## Extracurricular
----
-
-### Technovation /Event Lead & Participant
-#### January 2019 - Present, Ottawa, Ontario
-Manage over 25  volunteers, mentors, and ambassadors for each IBM-hosted event. Each event had approximately 300 attendees to work and guide the girls on their STEM project.
-
-### IBM / Student Ambassador
-#### January 2016 - December 2018,  Ottawa, Ontario
-Communicate and represent IBM during career fairs, hackathons, and networking events. 
-
-### IBM / STEM Conference Participant
-#### November 2016,  Markham, Ontario
-Attend STEM Female Millenial  Conference discussions include design thinking, networking, and career roundtables.
-
-### IBM /Site Lead & Participant
-#### January 2016 - December 2016,  Ottawa, Ontario
-Lead the IBM Interns in extracurricular events to enhance the IBM internship experience and network with fellow interns in other departments and positions.
