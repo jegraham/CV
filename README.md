@@ -50,6 +50,12 @@
 <br><br>
 
 
+**Event Lead & Participant** @ [Technovation](https://technovationottawa.org/) _(January 2019 Present)_<br>
+  - Manage over 25 volunteers, mentors, and ambassadors for each IBM-hosted event. Each event had approximately 300 attendees to work and guide the girls on their STEM project.
+  - Note: The couple sessions before the pandemic began we took extra measures to ensure screening and sanitization was done for all volunteers and participants. 
+<br><br>
+
+
 **Student Ambassador ** @ [IBM](https://www.ibm.com) _(January 2016 - December 2018)_<br>
   - Communicate and represent IBM during career fairs, hackathons, and networking events. 
 <br><br>
