@@ -1,6 +1,6 @@
-# Jessica Graham
+
 [Email](graham.jessica338@gmail.com) / [Website](jegraham.github.io) / [LinkedIn](www.linkedin.com/in/jessica-graham-455261aa) / [Github](https://github.com/jegraham/) / [DEV](https://dev.to/jegraham)
----
+
 
 ## Skills
 ---
