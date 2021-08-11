@@ -16,6 +16,9 @@
 - Git
 - Cognos Analytics 
 
+
+## 💻  Projects - Pending Section
+
 ## 👩🏼‍💻 Technical Experience
 
 **Intermediate Cognos Analytics Software Support Engineer** @ [IBM](https://www.ibm.com/) _(August 2020 - Present)_ <br>
