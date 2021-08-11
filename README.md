@@ -1,6 +1,5 @@
 # Jessica Graham
-- [Github](jegraham.github.io)
-- [LinkedIn](www.linkedin.com/in/jessica-graham-455261aa)
+[Email](graham.jessica338@gmail.com) / [Website](jegraham.github.io) / [LinkedIn](www.linkedin.com/in/jessica-graham-455261aa) / [Github](https://github.com/jegraham/) / [DEV](https://dev.to/jegraham)
 ---
 
 ## Skills
@@ -16,9 +15,16 @@
 - Git
 - Cognos Analytics 
 
+## 👩🏼‍💻 Technical Experience
 
-## Experience
----
+**Intermediate Cognos Analytics Software Support Engineer** @ [IBM](https://www.ibm.com/) _(July 2020 - Present)_ <br>
+No-code platform that enables professionals to build interactive applications.
+  - Implementing features that improve the UI and accessibility of the integrations platform
+  - Extending a company-wide design system
+  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
+<br><br>
+
+
 
 <dl>
   <dt>IBM / Intermediate Cognos Analytics Software Support Engineer/dt>
