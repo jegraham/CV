@@ -37,7 +37,7 @@
 
 
 **Cognos Analytics Analyst** @ [IBM](https://www.ibm.com/) _(January 2016 - January 2017)_ <br>
-  -Communicated with clients to review, troubleshoot and resolve their technical issues. Organized daily swarm to progress team cases and further reduce team case volume by 20%. 
+  - Communicated with clients to review, troubleshoot and resolve their technical issues. Organized daily swarm to progress team cases and further reduce team case volume by 20%. 
   - **_Technologies used:_** Cognos Analytics, Business Intelligence.
 <br><br>
 
@@ -66,15 +66,11 @@
 
 
 
+## 👩🏼‍🎓 Education
+
+**Master of Science in Computer Science (MSc)**<br>
+[Brock University](https://brocku.ca/) - St. Catharines, Ontario _(Fall 2021 - Winter 2023)
 
 
-
-
-## Education
----
-
-### Brock University / Master of Science in Computer Science (MSc)
-#### September 2021- Present,  St. Catharines, Ontario
-
-### Brock University/ Honours Bachelor of Science in Computer Science (BSc)
-#### September 2014 - June 2019,  St. Catharines, Ontario
+**Honours Bachelor of Science in Computer Science (BSc)**<br>
+[Brock University](https://brocku.ca/) - St. Catharines, Ontario _(Fall 2014 - Winter 2019)
