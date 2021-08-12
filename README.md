@@ -107,35 +107,35 @@
 
 ## 🏆 Accomplishments 
 
-**IBM Agile Explorer** @ [IBM](https://www.ibm.com/training/credentials) _(April 2021)_
-**IBM Cloud Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(April 2021)_
-**IBM Cognos Analytics V11.1.x Adminsitration Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(April 2021)_
-**Cloud Core** @ [IBM](https://www.ibm.com/training/credentials) _(March 2021)_
-**IBM Storafe and Cloud Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(June 2020)_
-**Security and Privacy by Design Foundations** @ [IBM](https://www.ibm.com/training/credentials) _(May 2020)_
-**Think Like a Hacker** @ [IBM](https://www.ibm.com/training/credentials) _(May 2020)_
-**IBM Cognos Analytics V11.10.x Administration Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(April 2020)_
-**Winning the Platform - Cloud Pak for Data** @ [IBM](https://www.ibm.com/training/credentials) _(April 2020)_
-**Beyond the Basics: Itsio and IBM Cloud Kubernetes Service** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
-**Containers, K8s and Itsio on IBM Cloud** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
-**Hadoop Foundations - Level 1** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
-**IBM Cloud Kubernetes Service** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
-**Cognitive Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
-**IBM Cloud Private - Foundation Technology** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
-**Offering Manager - Accelerating SaaS** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
-**Offering Manager - Define, Build & Deliver** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
-**Offering Manager - Scaling the Business** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
-**Offering Manager - Voice of the Market** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
-**Big Data Foundations - Level 1** @ [IBM](https://www.ibm.com/training/credentials) _(September 2019)_
-**Managing the Business** @ [IBM](https://www.ibm.com/training/credentials) _(September 2019)_
-**Portfolio & Market Planning** @ [IBM](https://www.ibm.com/training/credentials) _(September 2019)_
-**IBM Cloud Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(August 2019)_
-**Knowledge Centered Services (KCS) Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(April 2019)_
-**Docker Essentials: A Developer Introduction** @ [IBM](https://www.ibm.com/training/credentials) _(March 2019)_
-**Enterprise Design Thinking Co-Creator** @ [IBM](https://www.ibm.com/training/credentials) _(February 2019)_
-**Enterprise Design Thinking Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(February 2019)_
-**Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service** @ [IBM](https://www.ibm.com/training/credentials) _(February 2019)_
-**IBM Blockchain Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(November 2018)_
-**Earning Advocacy Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(February 2018)_
+- **IBM Agile Explorer** @ [IBM](https://www.ibm.com/training/credentials) _(April 2021)_
+- **IBM Cloud Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(April 2021)_
+- **IBM Cognos Analytics V11.1.x Adminsitration Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(April 2021)_
+- **Cloud Core** @ [IBM](https://www.ibm.com/training/credentials) _(March 2021)_
+- **IBM Storafe and Cloud Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(June 2020)_
+- **Security and Privacy by Design Foundations** @ [IBM](https://www.ibm.com/training/credentials) _(May 2020)_
+- **Think Like a Hacker** @ [IBM](https://www.ibm.com/training/credentials) _(May 2020)_
+- **IBM Cognos Analytics V11.10.x Administration Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(April 2020)_
+- **Winning the Platform - Cloud Pak for Data** @ [IBM](https://www.ibm.com/training/credentials) _(April 2020)_
+- **Beyond the Basics: Itsio and IBM Cloud Kubernetes Service** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
+- **Containers, K8s and Itsio on IBM Cloud** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
+- **Hadoop Foundations - Level 1** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
+- **IBM Cloud Kubernetes Service** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
+- **Cognitive Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+- **IBM Cloud Private - Foundation Technology** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+- **Offering Manager - Accelerating SaaS** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+- **Offering Manager - Define, Build & Deliver** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+- **Offering Manager - Scaling the Business** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+- **Offering Manager - Voice of the Market** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+- **Big Data Foundations - Level 1** @ [IBM](https://www.ibm.com/training/credentials) _(September 2019)_
+- **Managing the Business** @ [IBM](https://www.ibm.com/training/credentials) _(September 2019)_
+- **Portfolio & Market Planning** @ [IBM](https://www.ibm.com/training/credentials) _(September 2019)_
+- **IBM Cloud Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(August 2019)_
+- **Knowledge Centered Services (KCS) Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(April 2019)_
+- **Docker Essentials: A Developer Introduction** @ [IBM](https://www.ibm.com/training/credentials) _(March 2019)_
+- **Enterprise Design Thinking Co-Creator** @ [IBM](https://www.ibm.com/training/credentials) _(February 2019)_
+- **Enterprise Design Thinking Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(February 2019)_
+- **Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service** @ [IBM](https://www.ibm.com/training/credentials) _(February 2019)_
+- **IBM Blockchain Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(November 2018)_
+- **Earning Advocacy Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(February 2018)_
 
 
