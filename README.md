@@ -25,19 +25,19 @@
 <br><br>
 
 
-**Stock Market Analysis Honours Project** @ [Brock University MATH 4F90](https://brocku.ca/webcal/2021/undergrad/math.html#MATH_4F90) _(June 2018 - May 2019)_ <br>
+**Stock Market Analysis Honours Project** @ [Brock University](https://brocku.ca/webcal/2021/undergrad/math.html#MATH_4F90) _(June 2018 - May 2019)_ <br>
  - Created a data set using Google Sheets to create an efficient and creative resolution for the project. The solution consisted of numerous statistics calculations and graphs for further analysis. 
  - Provided accurate and analytical insights from the dataset to understand the stock market and make better predictions. 
 <br><br>
 
 
-**Volunteer Connect Honours Project** @ [Brock University COSC 3P99](https://www.cosc.brocku.ca/Offerings/4F90/) _(May 2018 - August 2018)_ <br>
+**Volunteer Connect Honours Project** @ [Brock University](https://www.cosc.brocku.ca/Offerings/4F90/) _(May 2018 - August 2018)_ <br>
 - Designed a website to connect volunteers and organizations with one another to close the gap between volunteer opportunities and volunteers. 
 - Research conducted by analyzing how dating apps connect users. 
 <br><br>
 
 
-**Volunteer Connect Entreupreneurship Project** @ [Brock University ENTR 2P51](https://brocku.ca/webcal/2001/undergrad/courses/ENTR.html) _(September 2017 - December 2017)_ <br>
+**Volunteer Connect Entreupreneurship Project** @ [Brock University](https://brocku.ca/webcal/2001/undergrad/courses/ENTR.html) _(September 2017 - December 2017)_ <br>
  - Designed the first-place solution to help volunteers and organizations connect. The website and app had event listings, application forms, login, and how-to guides.
  - Managed a team to undergo various research, design, and development to ensure timely completion of the assignment. 
 <br><br>
@@ -48,7 +48,7 @@
 ## 👩🏼‍💻 Technical Experience
 
 **Intermediate Cognos Analytics Software Support Engineer** @ [IBM](https://www.ibm.com/) _(August 2020 - Present)_ <br>
-  - Mentored three new hires and scheduling regular touchpoints to discuss case and training progress. Specialized in security and API connections. 
+  - Mentored new hires and scheduling regular touchpoints to discuss case and training progress. Specialized in security and API connections. 
   - **_Technologies used:_** Cognos Analytics, Javascript, SQL, OIDC, SSO, SSL, Linux, HTML, Web Developer Tools, Github, Security.
 <br><br>
 
