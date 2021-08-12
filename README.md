@@ -19,6 +19,21 @@
 
 ## 💻  Projects - Pending Section
 
+**Stock Market Analysis Honours Project** @ [Brock University MATH 4F90](https://brocku.ca/webcal/2021/undergrad/math.html#MATH_4F90) _(June 2018 - May 2019)_ <br>
+ - Created a data set using Google Sheets to create an efficient and creative resolution for the project. The solution consisted of numerous statistics calculations and graphs for further analysis. 
+ - Provided accurate and analytical insights from the dataset to understand the stock market and make better predictions. 
+<br><br>
+
+
+**Volunteer Connect Honours Project** @ [Brock University COSC 4F90](https://brocku.ca/webcal/2021/undergrad/math.html#MATH_4F90) _(May 2018 - August 2018)_ <br>
+ - Designed the first-place solution to help volunteers and organizations connect. The website and app had event listings, application forms, login, and how-to guides.
+ - Managed a team to undergo the various research, design, and development to ensure timely completion of the assignment. 
+<br><br>
+
+
+
+
+
 ## 👩🏼‍💻 Technical Experience
 
 **Intermediate Cognos Analytics Software Support Engineer** @ [IBM](https://www.ibm.com/) _(August 2020 - Present)_ <br>
@@ -49,7 +64,6 @@
 
 **Event Lead & Participant** @ [Technovation](https://technovationottawa.org/) _(January 2019 Present)_<br>
   - Manage over 25 volunteers, mentors, and ambassadors for each IBM-hosted event. Each event had approximately 300 attendees to work and guide the girls on their STEM project.
-  - Note: The couple sessions before the pandemic began we took extra measures to ensure screening and sanitization was done for all volunteers and participants. 
 <br><br>
 
 
@@ -83,4 +97,6 @@
 ## 🏆 Accomplishments - Pending Section
 
 **Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
+Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband records your hand movement and generates a live 3D model. 
+
+
