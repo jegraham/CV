@@ -17,7 +17,13 @@
 - Cognos Analytics 
 
 
-## 💻  Projects - Pending Section
+## 💻  Projects
+
+**Portfolio Website** @ [http://jegraham.github.io/](http://jegraham.github.io/) _(September 2017 - December 2017)_ <br>
+ - Created portfolio website using HTML, CSS, Javascript, and Bootstrap. 
+ - Implemented Github API to dynamically import public repositories into the portfolio website. 
+<br><br>
+
 
 **Stock Market Analysis Honours Project** @ [Brock University MATH 4F90](https://brocku.ca/webcal/2021/undergrad/math.html#MATH_4F90) _(June 2018 - May 2019)_ <br>
  - Created a data set using Google Sheets to create an efficient and creative resolution for the project. The solution consisted of numerous statistics calculations and graphs for further analysis. 
@@ -25,11 +31,16 @@
 <br><br>
 
 
-**Volunteer Connect Honours Project** @ [Brock University COSC 4F90](https://brocku.ca/webcal/2021/undergrad/math.html#MATH_4F90) _(May 2018 - August 2018)_ <br>
- - Designed the first-place solution to help volunteers and organizations connect. The website and app had event listings, application forms, login, and how-to guides.
- - Managed a team to undergo the various research, design, and development to ensure timely completion of the assignment. 
+**Volunteer Connect Honours Project** @ [Brock University COSC 3P99](https://www.cosc.brocku.ca/Offerings/4F90/) _(May 2018 - August 2018)_ <br>
+- Designed a website to connect volunteers and organizations with one another to close the gap between volunteer opportunities and volunteers. 
+- Research conducted by analyzing how dating apps connect users. 
 <br><br>
 
+
+**Volunteer Connect Entreupreneurship Project** @ [Brock University ENTR 2P51](https://brocku.ca/webcal/2001/undergrad/courses/ENTR.html) _(September 2017 - December 2017)_ <br>
+ - Designed the first-place solution to help volunteers and organizations connect. The website and app had event listings, application forms, login, and how-to guides.
+ - Managed a team to undergo various research, design, and development to ensure timely completion of the assignment. 
+<br><br>
 
 
 
@@ -94,9 +105,37 @@
 
 
 
-## 🏆 Accomplishments - Pending Section
+## 🏆 Accomplishments 
 
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband records your hand movement and generates a live 3D model. 
+**IBM Agile Explorer** @ [IBM](https://www.ibm.com/training/credentials) _(April 2021)_
+**IBM Cloud Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(April 2021)_
+**IBM Cognos Analytics V11.1.x Adminsitration Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(April 2021)_
+**Cloud Core** @ [IBM](https://www.ibm.com/training/credentials) _(March 2021)_
+**IBM Storafe and Cloud Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(June 2020)_
+**Security and Privacy by Design Foundations** @ [IBM](https://www.ibm.com/training/credentials) _(May 2020)_
+**Think Like a Hacker** @ [IBM](https://www.ibm.com/training/credentials) _(May 2020)_
+**IBM Cognos Analytics V11.10.x Administration Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(April 2020)_
+**Winning the Platform - Cloud Pak for Data** @ [IBM](https://www.ibm.com/training/credentials) _(April 2020)_
+**Beyond the Basics: Itsio and IBM Cloud Kubernetes Service** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
+**Containers, K8s and Itsio on IBM Cloud** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
+**Hadoop Foundations - Level 1** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
+**IBM Cloud Kubernetes Service** @ [IBM](https://www.ibm.com/training/credentials) _(March 2020)_
+**Cognitive Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+**IBM Cloud Private - Foundation Technology** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+**Offering Manager - Accelerating SaaS** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+**Offering Manager - Define, Build & Deliver** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+**Offering Manager - Scaling the Business** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+**Offering Manager - Voice of the Market** @ [IBM](https://www.ibm.com/training/credentials) _(October 2019)_
+**Big Data Foundations - Level 1** @ [IBM](https://www.ibm.com/training/credentials) _(September 2019)_
+**Managing the Business** @ [IBM](https://www.ibm.com/training/credentials) _(September 2019)_
+**Portfolio & Market Planning** @ [IBM](https://www.ibm.com/training/credentials) _(September 2019)_
+**IBM Cloud Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(August 2019)_
+**Knowledge Centered Services (KCS) Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(April 2019)_
+**Docker Essentials: A Developer Introduction** @ [IBM](https://www.ibm.com/training/credentials) _(March 2019)_
+**Enterprise Design Thinking Co-Creator** @ [IBM](https://www.ibm.com/training/credentials) _(February 2019)_
+**Enterprise Design Thinking Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(February 2019)_
+**Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service** @ [IBM](https://www.ibm.com/training/credentials) _(February 2019)_
+**IBM Blockchain Essentials** @ [IBM](https://www.ibm.com/training/credentials) _(November 2018)_
+**Earning Advocacy Practitioner** @ [IBM](https://www.ibm.com/training/credentials) _(February 2018)_
 
 
